@@ -1,0 +1,23 @@
+{
+  "name": "intro-to-backend",
+  "version": "1.0.0",
+  "description": "a intro to backend",
+  "homepage": "https://github.com/Manpreetk1238/intro-to-backend#readme",
+  "bugs": {
+    "url": "https://github.com/Manpreetk1238/intro-to-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manpreetk1238/intro-to-backend.git"
+  },
+  "license": "ISC",
+  "author": "Manpreet kaur",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
